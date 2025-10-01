@@ -59,4 +59,4 @@ This repository is a learning collection of my journey through **Machine Learnin
 👤 **Ritesh Patil**  
 - 📍 Pune, Maharashtra, India  
 - 📩 [riteshpatil702811@gmail.com](mailto:riteshpatil702811@gmail.com)  
-- 🔗 [GitHub](https://github.com/riteshpp05) | [LinkedIn](https://www.linkedin.com/in/ritesh-patil)  
+- 🔗 [GitHub](https://github.com/riteshpp05)  
